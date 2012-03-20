@@ -1,0 +1,7 @@
+This is a rather interesting project. It is one of the project I had to complete for my distributed system class from Nova Southeastern University.
+
+Basically, the assignment asked us the write a word count server/client system. A user will use the client program to upload, download, remove and display text files to or from the server. The server's main purpose is to receive a text file; do character, word and line count; and save the file in the data folder. The server will output the count information back to the client if ask. The server will also let the client program download any files that are already save in the system.
+
+An interesting thing (at least for me) about this project is that the relation between the server and client isn't one-to-one, but rather one-to-many (multi-thread). A single server program can handle a number of client connections with the use of the private ConnectionHandler class inside the server program. So a number of client can simultaneously connect to the server at the same time.
+
+Compiling and running this project is pretty simple. Just compile both WCClient.java and WCServer.java and run each WCClient.class and WCServer.class separately. All you need to do is create your own sample text files and test away!
