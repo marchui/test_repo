@@ -1,0 +1,3 @@
+This is my solution to Project Euler's (www.projecteuler.net) problem # 90. I did the code for this problem for a programming exercise for a job interview. I didn't get the job. :(
+
+Anyways, the problem description is inside the .java file, so I am not going to repeat it here. Compiling and running this program is rather straight forward. Just use the 'javac' commend to compile and 'java' to run.
