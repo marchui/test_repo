@@ -1,0 +1,5 @@
+This is my solution to the Chair problem.
+
+The full description of the problem is in the .java file itself. But the basic idea is that you have a 100 chair and 100 people sitting in each chair. For each turn you remove a person and skip a person. So for example you start out removing the person in chair #1, skip the person in chair #2, remove the person in chair #3 and so on. Until you have only one survivor left.
+
+This is a rather simple practice exercise. Compiling and running is straight forward. Use the 'javac' commend to compile and 'java' commend to run.
