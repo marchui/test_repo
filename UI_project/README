@@ -1,0 +1,5 @@
+This is a project I had to complete for the Human Computer Interaction class from Nova Southeastern University. The class teaches UI and usability design. The program was written using Java Swing.
+
+The project asked us to create a donation collection program for a local basketball team. The user will have have to provide a name, address, and telephone number. There will be 3 different type of ticket for purchase: $5, $10, and $25. The user can enter the number for each ticket to purchase and the program will display the final amount the user will have to pay. The percentage amount out of the purchase amount will be donated to the local basketball team will also be shown.
+
+Compiling and running this program is pretty straight forward. Just compile the Donation.java file and run the Donation.class file. 
